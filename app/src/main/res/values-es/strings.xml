@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaDAM</string>
+    <string name="texto1">Hola DAM desde XML</string>
+</resources>
